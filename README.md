@@ -1,5 +1,5 @@
 # DataStructure_Heap
-(堆積)
+(堆積是某種受約束的串列)
 
 A double-ended queue is a data structure that supports ops as below:
 
