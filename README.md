@@ -32,7 +32,7 @@ the new node needs to compare to the node in parent on the path to root.
                         
         max                         17
                                    /  \
-                                  18 
+        min                      18 
                                  / \  
         max                        new
         
