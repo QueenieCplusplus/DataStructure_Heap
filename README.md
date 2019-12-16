@@ -7,6 +7,6 @@ A double-ended queue is a data structure that supports ops as below:
 
 2) delete ele with largest || smaller key
 
-
+Suppose we wish to insert the ele with key into heap. As in the case of heaps, the insertion algorithm for heap follow the  
 
 
