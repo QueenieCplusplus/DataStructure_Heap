@@ -37,7 +37,33 @@ the new node needs to compare to the node in parent on the path to root.
         max                        new
         
        Child
-       
+>>> 
+once the new node key is 5, then the diagram of bin tree shall be like as following:
+
+      Root min                  7          
+                                 
+       level                       \    
+                        
+        max                         17
+                                   /  \
+        min                      5 
+                                 / \  
+        max                        18
+        
+       Child
+>>>
+
+      Root min                  5          
+                                 
+       level                       \    
+                        
+        max                         17
+                                   /  \
+        min                      7 
+                                 / \  
+        max                        18
+        
+       Child
        
 
 
