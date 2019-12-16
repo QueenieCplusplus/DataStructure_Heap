@@ -23,6 +23,22 @@ Comparing the new key with the key that is in parent of the new key, we see that
         
        Child
 
+>>>
+the new node needs to compare to the node in parent on the path to root.
+
+      Root min                 7          
+                                 
+       level                       \    
+                        
+        max                         17
+                                   /  \
+                                  18 
+                                 / \  
+        max                        new
+        
+       Child
+       
+       
 
 
 
